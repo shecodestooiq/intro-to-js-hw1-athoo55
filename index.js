@@ -1,0 +1,12 @@
+var name ="athraa";
+console.log ("my name is:", name);
+var age =20;
+console.log("my age is:", age);
+var isStudent = true ;
+console.log("I am a student:", isStudent);
+var variableToCheck ="cat";
+console.log(typeof variableToCheck);
+var greeting="Hi ";
+var name2="athoo";
+var result=greeting+name2;
+console.log(result);
